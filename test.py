@@ -7,7 +7,7 @@ black = (0, 0, 0)
 red = (255, 0, 0)
  
 dis = pygame.display.set_mode((800, 600))
-pygame.display.set_caption('Змейка от Skillbox')
+pygame.display.set_caption('Змейка')
  
 game_over = False
 x1 = 300 #Указываем начальное значение положения змейки по оси х.
